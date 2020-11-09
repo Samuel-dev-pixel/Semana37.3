@@ -1,0 +1,370 @@
+.Amapola_1_div_1 {
+	position: absolute;
+	left: 22.5%;
+	top: 20%;
+	background: radial-gradient(#FFFFFF 70%, #FF5E5E 80%, #FF0404 90%);
+	border-radius: 5%;
+	opacity: 100%;
+	width: 740px;
+	height: 370px;
+}
+
+.Amapola_1_imagen_1 {
+	width: 640px;
+	height: 360px;
+	margin-left: 25%;
+}
+
+.Amapola_nombre_1 {
+	position: absolute;
+    top: 25%;
+    left: 1%;
+    font-size: 50px;
+    font-family: Tipografia1;
+}
+
+@font-face {
+	font-family: Tipografia1;
+	src: url("MTF Elegance.ttf");
+}
+
+.Zlatan_1_div_1 {
+	position: absolute;
+	left: 22.5%;
+	top: 80%;
+	background: radial-gradient(#FFFFFF 70%, #A708E2 80%, #2D023D 90%);
+	border-radius: 5%;
+	opacity: 100%;
+	width: 740px;
+	height: 370px;
+}
+
+.Zlatan_1_imagen_1 {
+	width: 640px;
+	height: 360px;
+	margin-left: 25%;
+}
+
+.Zlatan_nombre_1 {
+	position: absolute;
+    top: 25%;
+    left: 1%;
+    font-size: 50px;
+    font-family: Broadway;
+}
+
+.Robb_1_div_1 {
+	position: absolute;
+	left: 22.5%;
+	top: 140%;
+	background: radial-gradient(#FFFFFF 70%, #0B698A 80%, #0C3C4D 90%);
+	border-radius: 5%;
+	opacity: 100%;
+	width: 740px;
+	height: 370px;
+}
+
+.Robb_1_imagen_1 {
+	width: 191px;
+	height: 353px;
+	margin-left: 35%;
+}
+
+.Robb_nombre_1 {
+	position: absolute;
+    top: 25%;
+    left: 8%;
+    font-size: 50px;
+    font-family: Elephant;
+}
+
+.Milovan_1_div_1 {
+	position: absolute;
+	left: 22.5%;
+	top: 200%;
+	background: radial-gradient(#FFFFFF 70%, #FFFB00 80%, #FF7800 90%);
+	border-radius: 5%;
+	opacity: 100%;
+	width: 740px;
+	height: 370px;
+}
+
+.Milovan_1_imagen_1 {
+	width: 186px;
+	height: 370px;
+	margin-left: 35%;
+}
+
+.Milovan_nombre_1 {
+	position: absolute;
+    top: 25%;
+    left: 1%;
+    font-size: 50px;
+    font-family: Castellar;
+}
+
+.Jara_1_div_1 {
+	position: absolute;
+	left: 22.5%;
+	top: 260%;
+	background: radial-gradient(#FFFFFF 70%, #07B480 80%, #035B40 90%);
+	border-radius: 5%;
+	opacity: 100%;
+	width: 740px;
+	height: 370px;
+}
+
+.Jara_1_imagen_1 {
+	width: 291px;
+	height: 331px;
+	margin-left: 25%;
+}
+
+.Jara_nombre_1 {
+	position: absolute;
+    top: 25%;
+    left: 11%;
+    font-size: 50px;
+    font-family: Century;
+}
+
+.Theo_1_div_1 {
+	position: absolute;
+	left: 22.5%;
+	top: 320%;
+	background: radial-gradient(#FFFFFF 70%, #1234DF 80%, #04135D 90%);
+	border-radius: 5%;
+	opacity: 100%;
+	width: 740px;
+	height: 370px;
+}
+
+.Theo_1_imagen_1 {
+	width: 291px;
+	height: 331px;
+	margin-left: 25%;
+}
+
+.Theo_nombre_1 {
+	position: absolute;
+    top: 25%;
+    left: 10%;
+    font-size: 50px;
+    font-family: Ravie;
+}
+
+body {
+	background-color: #2A2A2A;
+}
+
+.Titulo{
+	position: absolute;
+	left: 26.5%;
+	font-size: 60px;
+	top: -5%;
+	font-family: 'cooper black';
+}
+
+.Amapola-boton-1 {
+  position: absolute;
+  left: 80%;
+  top: 25%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #FF5E5E 50%, #FF0404 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Amapola-boton-2 {
+  position: absolute;
+  left: 80%;
+  top: 40%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #FF5E5E 50%, #FF0404 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Amapola-boton-3 {
+  position: absolute;
+  left: 80%;
+  top: 55%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #FF5E5E 50%, #FF0404 100%);
+  border-style: none;
+  font-size: 25px;
+}
+
+.Zlatan-boton-1 {
+  position: absolute;
+  left: 80%;
+  top: 85%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #A708E2 50%, #2D023D 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Zlatan-boton-2 {
+  position: absolute;
+  left: 80%;
+  top: 100%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #A708E2 50%, #2D023D 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Zlatan-boton-3 {
+  position: absolute;
+  left: 80%;
+  top: 115%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #A708E2 50%, #2D023D 100%);
+  border-style: none;
+  font-size: 25px;
+}
+
+.Robb-boton-1 {
+  position: absolute;
+  left: 80%;
+  top: 145%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #0B698A 50%, #0C3C4D 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Robb-boton-2 {
+  position: absolute;
+  left: 80%;
+  top: 160%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #0B698A 50%, #0C3C4D 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Robb-boton-3 {
+  position: absolute;
+  left: 80%;
+  top: 175%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #0B698A 50%, #0C3C4D 100%);
+  border-style: none;
+  font-size: 25px;
+}
+
+.Milovan-boton-1 {
+  position: absolute;
+  left: 80%;
+  top: 205%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #FFFB00 50%, #FF7800 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Milovan-boton-2 {
+  position: absolute;
+  left: 80%;
+  top: 220%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #FFFB00 50%, #FF7800 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Milovan-boton-3 {
+  position: absolute;
+  left: 80%;
+  top: 235%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #FFFB00 50%, #FF7800 100%);
+  border-style: none;
+  font-size: 25px;
+}
+
+.Jara-boton-1 {
+  position: absolute;
+  left: 80%;
+  top: 270%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #07B480 100%, #035B40 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Jara-boton-2 {
+  position: absolute;
+  left: 80%;
+  top: 285%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #07B480 50%, #035B40 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Jara-boton-3 {
+  position: absolute;
+  left: 80%;
+  top: 300%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #07B480 50%, #035B40 100%);
+  border-style: none;
+  font-size: 25px;
+}
+
+.Theo-boton-1 {
+  position: absolute;
+  left: 80%;
+  top: 325%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #1234DF 50%, #04135D 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Theo-boton-2 {
+  position: absolute;
+  left: 80%;
+  top: 340%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #1234DF 50%, #04135D 100%);
+  border-style: none;
+  font-size: 25px;
+}
+.Theo-boton-3 {
+  position: absolute;
+  left: 80%;
+  top: 355%;
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  background: linear-gradient(180deg, #1234DF 50%, #04135D 100%);
+  border-style: none;
+  font-size: 25px;
+}
